@@ -5,25 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv" alt="gnanevv" /></a> </p>
 
-- 🔭 I’m currently working on **asd**
-
 - 🌱 I’m currently learning **Kotlin**
-
-- 👯 I’m looking to collaborate on **asd**
-
-- 🤝 I’m looking for help with **asd**
-
-- 👨‍💻 All of my projects are available at [asd](asd)
-
-- 📝 I regularly write articles on [asd](asd)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **gnanevv1@gmail.com**
-
-- 📄 Know about my experiences [asd](asd)
-
-- ⚡ Fun fact **asd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
