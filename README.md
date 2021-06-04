@@ -1,10 +1,7 @@
 ## Hi I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h3 align="center">I'm a passionate Software developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanevv&label=Profile%20views&color=0e75b6&style=flat" alt="gnanevv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv" alt="gnanevv" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -29,3 +26,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=dark&hide_border=true" alt="gnanevv" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv" alt="gnanevv" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" /> </p>
