@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true&locale=en&layout=compact" alt="gnanevv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color"&show_icons=true&locale=en&count_private=true)" alt="gnanevv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true"&show_icons=true&locale=en&)" alt="gnanevv" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=dark&hide_border=true" alt="gnanevv" /></p>
