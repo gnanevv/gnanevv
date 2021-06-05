@@ -22,17 +22,14 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=nodejs&logoColor=3C873A)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true&locale=en&layout=compact" alt="gnanevv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true"&show_icons=true&locale=en&)" alt="gnanevv" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true&locale=en&column=4" alt="gnanevv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=dark&hide_border=true" alt="gnanevv" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv" alt="gnanevv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv&theme=juicyfresh&no-bg=true&no-frame=true&column=4" alt="gnanevv" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" /> </p>
