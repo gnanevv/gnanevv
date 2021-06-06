@@ -22,8 +22,9 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node&logoColor=3C873A)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=3C873A)](#) 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+[![AWS Badge](https://img.shields.io/badge/-Amazon_AWS-black?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=#232F3E)](#)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true"&show_icons=true&locale=en&)" alt="gnanevv" /></p>
 
