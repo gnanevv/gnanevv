@@ -27,10 +27,18 @@
 [![AWS Badge](https://img.shields.io/badge/-Amazon_AWS-black?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=#232F3E)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=3C873A)](#) 
 
-# Stats
+
+<details>
+<summary>
+<h1> More stats about me 👈</h1>
+</summary>
+
+<br >
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true"&show_icons=true&locale=en&)" alt="gnanevv" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true&locale=en&column=4" alt="gnanevv" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv&theme=juicyfresh&no-bg=true&no-frame=true&column=4" alt="gnanevv" /></a> </p>
+</details>
