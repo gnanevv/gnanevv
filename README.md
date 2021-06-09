@@ -1,4 +1,4 @@
-# Hi I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" />
+# Hi, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" />
 
 ### I'm a passionate Software developer from Bulgaria who loves making high-quality websites and applications.
 
