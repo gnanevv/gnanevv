@@ -2,7 +2,7 @@
 
 ### I'm a passionate Software developer from Bulgaria who loves making high-quality websites and applications.
 
-- 🌱 I’m currently learning **Kotlin**
+- 💡 I’m currently learning Three.js / WebGL
 
 - 💬 Ask me about **React**
   
@@ -29,9 +29,9 @@
 
 
 <details>
-<summary>
-<h1> More stats about me 👈</h1>
-</summary>
+    <summary>
+        <h1> More stats about me 👈</h1>
+    </summary>
 
 <br >
 
