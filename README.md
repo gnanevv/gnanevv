@@ -2,7 +2,7 @@
 
 ### I'm a passionate Software developer from Bulgaria who loves making high-quality websites and applications.
 
-- 💡 I’m currently learning Three.js / WebGL
+- 💡 I’m currently learning Three.js
 
 - 💬 Ask me about **React**
   
