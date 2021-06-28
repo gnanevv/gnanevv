@@ -30,7 +30,7 @@
 
 <details>
     <summary>
-        <h1> More stats about me 👈</h1>
+        <h1> More info about me 👈</h1>
     </summary>
 
 <br >
