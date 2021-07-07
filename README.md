@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React**
   
-- 📌 2021 Goals: Contribute more to Open Source projects
+- 📌 2021 Goals: Contribute more to Open Source projects and learn GO language
   
 - 🐰 Fun fact: I own a pet rabbit (my rubber duck debugger 😆)
   
