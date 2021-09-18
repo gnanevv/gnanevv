@@ -6,6 +6,8 @@
 
 - 👨🏽‍💻 I love innovation and new technologies
 
+- 🔧 Excited about blockchain
+
 - 📌 2021 Goals: Contribute more to Open Source projects and learn GO language
   
 - 🐰 Fun fact: I own a pet rabbit (my rubber duck debugger 😆)
