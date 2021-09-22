@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I love innovation and new technologies
 
-- 🔧 Excited about blockchain
+- 🔧 Excited about blockchain and web3.js
 
 - 📌 2021 Goals: Contribute more to Open Source projects and learn GO language
   
