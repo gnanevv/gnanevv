@@ -2,7 +2,7 @@
 
 ### I'm a passionate Software developer from Bulgaria who loves figuring out how stuff work.
 
-- 💡 I’m currently learning Three.js and blockchain
+- 💡 I’m currently learning Three.js and Blockchain with Solidity
 
 - 👨🏽‍💻 I love innovation and new technologies
 
