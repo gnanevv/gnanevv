@@ -9,9 +9,7 @@
 - 🔧 Excited about blockchain and web3.js
 
 - 📌 2021 Goals: Contribute more to Open Source projects and learn GO language
-  
-- 🐰 Fun fact: I own a pet rabbit (my rubber duck debugger 😆)
-  
+    
 <img
     src="https://raw.githubusercontent.com/gnanevv/gnanevv/master/media/codeit.gif"
     width="400" 
