@@ -8,7 +8,7 @@
 
 - 🔧 Excited about blockchain and web3.js
 
-- 📌 2022 Goals: Contribute more to Open Source projects and learn GO language
+- 📌 2023 Goals: Contribute more to Open Source projects and learn GO language
     
 <img
     src="https://raw.githubusercontent.com/gnanevv/gnanevv/master/media/codeit.gif"
