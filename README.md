@@ -6,8 +6,6 @@
 
 - 👨🏽‍💻 I love innovation and new technologies
 
-- 🔧 Excited about blockchain and web3.js
-
 - 📌 2023 Goals: Contribute more to Open Source projects
     
 <img
