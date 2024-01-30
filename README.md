@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I love innovation and new technologies
 
-- 📌 2023 Goals: Contribute more to Open Source projects
+- 📌 2024 Goals: Contribute more to Open Source projects
     
 <img
     src="https://raw.githubusercontent.com/gnanevv/gnanevv/master/media/codeit.gif"
