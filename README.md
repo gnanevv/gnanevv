@@ -3,7 +3,7 @@
 <table>
   <tr>   
       <td width="50%">
-      ### I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.
+      <h3>I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.</h3>
       <ul>
       <li> 💡 I’m currently learning Three.js</li>
       <li>👨🏽‍💻 I love innovation and new technologies</li>
