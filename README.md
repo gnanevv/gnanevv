@@ -1,18 +1,21 @@
 # Hi, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" />
 
-### I'm a passionate Software developer from Bulgaria who loves figuring out how stuff work.
+<table>
+  <tr>   
+      <td width="50%">
+      ### I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.
+      <ul>
+      <li> 💡 I’m currently learning Three.js</li>
+      <li>👨🏽‍💻 I love innovation and new technologies</li>
+      <li>📌 2024 Goals: Contribute to Open Source projects</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/gnanevv/gnanevv/master/media/codeit.gif" width="400" height="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-- 💡 I’m currently learning Three.js
-
-- 👨🏽‍💻 I love innovation and new technologies
-
-- 📌 2024 Goals: Contribute to Open Source projects
-    
-<img
-    src="https://raw.githubusercontent.com/gnanevv/gnanevv/master/media/codeit.gif"
-    width="400" 
-    height="300"
- />
 # 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-George-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/🐝-georgi-nanev-28aaa3130//) [![Mail Badge](https://img.shields.io/badge/-GeorgeNanev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gnanevv1@gmail.com)
 # ⚡ Languages and Technologies:
