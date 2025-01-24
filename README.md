@@ -7,7 +7,7 @@
       <ul>
       <li> 💡 I’m currently learning Three.js</li>
       <li>👨🏽‍💻 I love innovation and new technologies</li>
-      <li>📌 2024 Goals: Contribute to Open Source projects</li>
+      <li>📌 2025 Goals: AI based projects</li>
       </ul>
     </td>
     <td width="50%">
