@@ -5,7 +5,7 @@
       <td width="50%">
       <h3>I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.</h3>
       <ul>
-      <li> 💡 I’m currently learning Three.js</li>
+<!--       <li> 💡 I’m currently learning Three.js</li> -->
       <li>👨🏽‍💻 I love innovation and new technologies</li>
       <li>📌 2025 Goals: AI based projects</li>
       </ul>
