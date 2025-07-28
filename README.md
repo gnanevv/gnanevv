@@ -1,3 +1,5 @@
+<!-- Enhanced GitHub Profile README -->
+
 # Hi, I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img align="right" src="https://komarev.com/ghpvc/?username=gnanevv&label=Visitors&color=0e75b6&style=flat" alt="gnanevv" />
 
 <table>
@@ -5,9 +7,9 @@
       <td width="50%">
       <h3>I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.</h3>
       <ul>
-<!--       <li> 💡 I’m currently learning Three.js</li> -->
-      <li>👨🏽‍💻 I love innovation and new technologies</li>
-      <li>📌 2025 Goals: AI powered projects</li>
+        <li>🚀 Building modern, scalable web & mobile applications</li>
+        <li>👨🏽‍💻 Enthusiast for innovation and emerging tech</li>
+        <li>📚 Always learning: Web Performance, AI, Systems Design</li>
       </ul>
     </td>
     <td width="50%">
@@ -16,8 +18,10 @@
   </tr>
 </table>
 
-# 📫 How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-George-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/🐝-georgi-nanev-28aaa3130//) [![Mail Badge](https://img.shields.io/badge/-GeorgeNanev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gnanevv1@gmail.com)
+# 📩 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-George-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%90%9D-georgi-nanev-28aaa3130//) 
+[![Mail Badge](https://img.shields.io/badge/-GeorgeNanev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gnanevv1@gmail.com)
+
 # ⚡ Languages and Technologies:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -28,20 +32,28 @@
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 [![AWS Badge](https://img.shields.io/badge/-Amazon_AWS-black?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=#232F3E)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=&logoColor=3C873A)](#) 
-
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 
 <details>
-    <summary>
-        <h1> More about me 👈</h1>
-    </summary>
+  <summary><h1>🔮 More about me</h1></summary>
 
-<br >
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=George's+GitHub+Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=radical&hide_border=true" width="49%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanevv&layout=compact&theme=radical&hide_border=true" width="60%" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true"&show_icons=true&locale=en&)" alt="gnanevv" /></p>
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=gnanevv&theme=gruvbox&row=1&no-frame=true&margin-w=15" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanevv&show_icons=true&bg_color=60,19181d,1e3b5c&title_color=fff&text_color=226fed&icon_color=2b86e2&hide_border=true&hide=bg-color&count_private=true&locale=en&column=4" alt="gnanevv" /></p>
+<div align="center">
+  <h3>✨ Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnanevv&theme=react-dark&hide_border=true" width="100%" />
+</div>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanevv&theme=juicyfresh&no-bg=true&no-frame=true&column=4" alt="gnanevv" /></a> </p>
 </details>
