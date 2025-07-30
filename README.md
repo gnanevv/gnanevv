@@ -41,8 +41,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=George's+GitHub+Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=radical&hide_border=true" width="49%" />
-  <br />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=radical&hide_border=true" width="49%" /> -->
+<!--   <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanevv&layout=compact&theme=radical&hide_border=true" width="60%" />
 </div>
 
