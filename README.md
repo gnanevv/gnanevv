@@ -33,8 +33,6 @@
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 [![AWS Badge](https://img.shields.io/badge/-Amazon_AWS-black?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=#232F3E)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
-[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 
 <details>
   <summary><h1>🔮 More about me</h1></summary>
