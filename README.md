@@ -7,9 +7,9 @@
       <td width="50%">
       <h3>I'm a passionate Software Engineer from Bulgaria who loves figuring out how stuff works.</h3>
       <ul>
-        <li>🚀 Building modern, scalable web & mobile applications</li>
-        <li>👨🏽‍💻 Enthusiast for innovation and emerging tech</li>
-        <li>📚 Always learning: Web Performance, AI, Systems Design</li>
+        <li>🚀 Building modern, scalable web & mobile applications.</li>
+        <li>👨🏽‍💻 Enthusiast for innovation and emerging tech.</li>
+        <li>📚 Always learning: Web Performance, AI, Systems Design, IoT devices.</li>
       </ul>
     </td>
     <td width="50%">
