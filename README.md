@@ -38,16 +38,16 @@
   <summary><h1>🔮 More about me</h1></summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=George's+GitHub+Stats" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gnanevv&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=George's+GitHub+Stats" width="49%" /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnanevv&theme=radical&hide_border=true" width="49%" /> -->
 <!--   <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanevv&layout=compact&theme=radical&hide_border=true" width="60%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🏆 GitHub Achievements</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=gnanevv&theme=gruvbox&row=1&no-frame=true&margin-w=15" />
-</div>
+</div> -->
 
 <div align="center">
   <h3>✨ Activity Graph</h3>
